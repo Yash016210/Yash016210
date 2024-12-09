@@ -1,45 +1,48 @@
-# 👋 Hi, I'm Yash Chaudhary
+# 👋 Hi, I'm Yash Chaudhary  
 
 🎓 **BCA Student** | 🏫 *UPES, Dehradun*  
-💻 **Passionate Developer** | 🚀 *Focused on Full-Stack Development, Java, and AI/ML with Python*  
+💻 **Full-Stack Developer** | 🚀 *Focused on Java, Python for AI/ML, and modern web development*  
 
 ---
 
-## 👨‍💻 **About Me**
-- 🌟 I'm a BCA student at **UPES, Dehradun**, exploring the exciting world of programming and development.
-- 🛠️ I enjoy building modern web applications and diving into the realms of **AI/ML** using **Python** and **Java**.
-- 🎸 Besides coding, I love playing cricket, badminton, and strumming my guitar.
+## 🛠 **Tech Stack & Interests**
+- **Languages**: Java, Python, JavaScript  
+- **Frameworks & Libraries**: React, Node.js, Express, Django  
+- **Databases**: MongoDB, MySQL  
+- **Areas of Focus**: Full-Stack Development, AI/ML, RESTful APIs  
 
 ---
 
-## 🌟 **Skills**
-- **Languages**: Java, Python, JavaScript
-- **Frameworks & Tools**: React, Node.js, Express, MongoDB, Django
-- **Areas of Interest**: Full-Stack Development, Artificial Intelligence, Machine Learning
+## 📈 **GitHub Overview**
+
+### 🔥 **Activity Graph**
+![Commit Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yash016210&theme=github_dark)
+
+### 📊 **Statistics**
+
+**GitHub Streak**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash016210&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)
+
+**Overall Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash016210&show_icons=true&theme=github_dark)
+
+**Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash016210&layout=compact&theme=github_dark)
 
 ---
 
-## 📊 **GitHub Stats**
-
-![Yash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash016210&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash016210&show_icons=true&theme=radical)  
-![Yash's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash016210&layout=compact&theme=radical)
-![GitHub Commit Graph](https://activity-graph.herokuapp.com/graph?username=Yash016210&theme=radical)
-
----
-
-## 📂 **Repositories**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yash016210&repo=repo-name&theme=radical)](https://github.com/your-username/repo-name)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yash016210&repo=repo-name&theme=radical)](https://github.com/your-username/repo-name)
+## 📂 **Featured Projects**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yash016210&repo=repo-name&theme=github_dark)](https://github.com/Yash016210/repo-name)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yash016210&repo=repo-name&theme=github_dark)](https://github.com/Yash016210/repo-name)
 
 ---
 
 ## 🌐 **Connect With Me**
-- 📧 **Email**: your-email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌍 [Portfolio](https://your-portfolio-link)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 🌍 [Portfolio](https://your-portfolio-link)  
+- 📧 **Email**: your-email@example.com  
 
 ---
 
-### ⚡ **Fun Fact**
-"Programming is the closest thing we have to magic! 🚀"
+### 💡 **Fun Fact**
+"Code is like humor. When you have to explain it, it’s bad."
