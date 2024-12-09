@@ -37,7 +37,7 @@
 
 ### 📈 **GitHub Commit Activity**
 
-![GitHub Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=Yash016210&theme=radical)
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash016210&theme=radical)
 
 ---
 
