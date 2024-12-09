@@ -43,7 +43,7 @@
 
 ## 📂 **Featured Projects**
 
-- [**Project 1**](https://github.com/Yash016210/project1): A Full-Stack Web Application built with React, Node.js, and MongoDB.
+- [**Project 1**](https://github.com/Yash016210/BestMatch): A Frontend Web Application built with HTML5, CSS, and JavaScript.
 - [**Project 2**](https://github.com/Yash016210/project2): An AI/ML Model implemented using Python and TensorFlow for data prediction.
 - [**Project 3**](https://github.com/Yash016210/project3): A RESTful API built with Django and PostgreSQL for a fictional e-commerce platform.
 
@@ -70,7 +70,8 @@ _"The best way to predict the future is to create it."_
 ### 📚 **Education**
 - **University**: UPES, Dehradun  
 - **Degree**: Bachelor’s in Computer Applications (BCA)  
-- **Current Year**: 2nd Year
+- **Current Year**: 1nd Year
+- **Current Semester**: 2nd Semester
 
 ---
 
