@@ -27,9 +27,9 @@
 ---
 
 ## 🌐 **Connect With Me**
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 💼 **LinkedIn : **[LinkedIn](https://linkedin.com/in/yashchaudhary67)  
 - 🌍 [Portfolio](https://your-portfolio-link)  
-- 📧 **Email**: your-email@example.com  
+- 📧 **Email**: YashChaudhary016210@gmail.com
 
 ---
 
