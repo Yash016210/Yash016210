@@ -3,8 +3,10 @@
 🎓 **BCA Student** | 🏫 *UPES, Dehradun*  
 💻 *Full-Stack Developer* | 🚀 *Focused on Java, Python for AI/ML, and modern web development*  
 
+--
 
-## 🛠 **Tech Stack & Interests**
+## 🛠 Tech Stack & Interests :
+--
 - **Languages**: Java, Python, JavaScript, TypeScript  
 - **Frameworks & Libraries**: React, Node.js, Express, Django, Flask  
 - **Databases**: MongoDB, MySQL, PostgreSQL  
