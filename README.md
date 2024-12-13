@@ -15,7 +15,7 @@
 
 ---
 
-## 📊 **GitHub Overview**
+# 📊 **GitHub Overview**
 
 ### 🔥 **GitHub Stats**
 
@@ -35,15 +35,9 @@
 
 ---
 
-### 📈 **GitHub Commit Activity**
-
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash016210&theme=radical)
-
----
-
 ## 📂 **Featured Projects**
 
-- [**BestMatch**](https://github.com/Yash016210/BestMatch): A Full-Stack Web Application built with React, Node.js, and MongoDB.
+- [**BestMatch**](https://github.com/Yash016210/BestMatch): A Frontend Web Application built with HTML, CSS, and JavaScript.
 - [**Project 2**](https://github.com/Yash016210/project2): An AI/ML Model implemented using Python and TensorFlow for data prediction.
 - [**Project 3**](https://github.com/Yash016210/project3): A RESTful API built with Django and PostgreSQL for a fictional e-commerce platform.
 
@@ -77,7 +71,6 @@ _"The best way to predict the future is to create it."_
 ### 🌱 **Looking to Learn**
 - **AI/ML**: Deepening my knowledge of Artificial Intelligence and Machine Learning algorithms.  
 - **Cloud Computing**: Exploring services like AWS and Azure for cloud-based applications.  
-- **Blockchain**: Understanding the fundamentals of blockchain technology and its applications in various industries.
 
 ---
 
