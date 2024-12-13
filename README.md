@@ -3,7 +3,6 @@
 🎓 **BCA Student** | 🏫 *UPES, Dehradun*  
 💻 *Full-Stack Developer* | 🚀 *Focused on Java, Python for AI/ML, and modern web development*  
 
----
 
 ## 🛠 **Tech Stack & Interests**
 - **Languages**: Java, Python, JavaScript, TypeScript  
