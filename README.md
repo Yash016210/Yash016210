@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yash Chaudhary  
 
 🎓 **BCA Student** | 🏫 *UPES, Dehradun*  
-💻 **Full-Stack Developer** | 🚀 *Focused on Java, Python for AI/ML, and modern web development*  
+💻 *Full-Stack Developer* | 🚀 *Focused on Java, Python for AI/ML, and modern web development*  
 
 ---
 
