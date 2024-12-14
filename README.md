@@ -26,7 +26,7 @@
 
 ### 📝 **GitHub Profile Summary**
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash016210&theme=github)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash016210&theme=radical)
 
 ---
 
