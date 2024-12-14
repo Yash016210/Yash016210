@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Yash Chaudhary  
 
-🎓 **BCA Student** | 🏫 *UPES, Dehradun*  
-💻 **Full-Stack Developer** | 🚀 *Focused on Java, Python for AI/ML, and modern web development*  
+🎓 **BCA Student | 🏫 UPES, Dehradun**  
+💻 **Full-Stack Developer | 🚀 Focused on Java, Python for AI/ML, and Modern Web Development**
 
 ---
 
 ## 🛠 **Tech Stack & Interests**
-- **Languages**: Java, Python, JavaScript, TypeScript  
-- **Frameworks & Libraries**: React, Node.js, Express, Django, Flask  
-- **Databases**: MongoDB, MySQL, PostgreSQL  
-- **DevOps**: Docker, Kubernetes  
-- **Cloud**: AWS, Azure  
-- **Tools**: Git, GitHub, Postman, Visual Studio Code  
+- **Languages**: **Java, Python, JavaScript, TypeScript**  
+- **Frameworks & Libraries**: **React, Node.js, Express, Django** 
+- **Databases**: **MongoDB, MySQL** 
+- **DevOps**: **Docker**  
+- **Cloud**: **AWS, Azure**  
+- **Tools**: **Git, GitHub, Visual Studio Code** 
 
 ---
 
