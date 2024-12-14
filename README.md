@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠 **Tech Stack & Interests
+## 🛠 Tech Stack & Interests
 - **Languages**: Java, Python, JavaScript, TypeScript
 - **Frameworks & Libraries**: **React, Node.js, Express, Django
 - **Databases**: MongoDB, MySQL
