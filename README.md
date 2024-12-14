@@ -19,7 +19,7 @@
 
 ### 🚀 GitHub Stats & Streak  
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash016210&show_icons=true&theme=merko&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash016210&theme=merko) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash016210&show_icons=true&theme=merkol&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash016210&theme=radical) |
 |---|---|
 
 ---
