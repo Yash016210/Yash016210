@@ -5,13 +5,13 @@
 
 ---
 
-## 🛠 **Tech Stack & Interests**
-- **Languages**: **Java, Python, JavaScript, TypeScript**  
-- **Frameworks & Libraries**: **React, Node.js, Express, Django** 
-- **Databases**: **MongoDB, MySQL** 
-- **DevOps**: **Docker**  
-- **Cloud**: **AWS, Azure**  
-- **Tools**: **Git, GitHub, Visual Studio Code** 
+## 🛠 **Tech Stack & Interests
+- **Languages**: Java, Python, JavaScript, TypeScript
+- **Frameworks & Libraries**: **React, Node.js, Express, Django
+- **Databases**: MongoDB, MySQL
+- **DevOps**: Docker
+- **Cloud**: AWS, Azure
+- **Tools**: Git, GitHub, Visual Studio Code
 
 ---
 
