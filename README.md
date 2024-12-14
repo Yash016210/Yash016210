@@ -46,7 +46,7 @@
 ---
 
 ## 🌐 **Connect With Me**
-- 💼 **LinkedIn**: [Yash Chaudhary](https://linkedin.com/in/yashchaudhary67)  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/yashchaudhary67) 
 - 🌍 **Portfolio**: [Portfolio](https://your-portfolio-link)  
 - 📧 **Email**: YashChaudhary016210@gmail.com
 
