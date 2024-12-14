@@ -37,12 +37,6 @@
 
 ---
 
-### 📈 **GitHub Activity (Contributions)**
-
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash016210&theme=radical)
-
----
-
 ## 📂 **Featured Projects**
 
 - [**Project 1**](https://github.com/Yash016210/project1): A Full-Stack Web Application built with React, Node.js, and MongoDB.
@@ -79,7 +73,6 @@ _"The best way to predict the future is to create it."_
 ### 🌱 **Looking to Learn**
 - **AI/ML**: Deepening my knowledge of Artificial Intelligence and Machine Learning algorithms.  
 - **Cloud Computing**: Exploring services like AWS and Azure for cloud-based applications.  
-- **Blockchain**: Understanding the fundamentals of blockchain technology and its applications in various industries.
 
 ---
 
