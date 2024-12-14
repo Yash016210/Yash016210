@@ -24,9 +24,10 @@
 
 ---
 
-### 🌟 **Most Used Languages**
+### 🌟 **Most Used Languages & GitHub Contributions by Repository**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash016210&layout=compact&theme=radical)
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash016210&layout=compact&theme=radical) | ![GitHub Repo Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash016210&layout=compact&theme=merko) |
+|---|---|
 
 ---
 
