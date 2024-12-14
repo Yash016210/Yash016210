@@ -32,7 +32,7 @@
 
 ### 🌟 **Most Used Languages & GitHub Contributions by Repository**
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash016210&layout=compact&theme=merko) | ![GitHub Repo Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash016210&layout=compact&theme=merko) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash016210&langs_count=10&theme=radical) | ![GitHub Repo Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash016210&langs_count=10&theme=radical) |
 |---|---|
 
 ---
