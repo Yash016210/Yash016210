@@ -30,12 +30,6 @@
 
 ---
 
-### 📅 Custom GitHub Commit Activity
-
-![GitHub Commit Activity](https://ghchart.rshah.org/Yash016210?bg=0f0f0f&color=fff&line=4c1f1f)
-
----
-
 ### 🌟 **Most Used Languages & GitHub Contributions by Repository**
 
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash016210&langs_count=10&theme=radical) | ![GitHub Repo Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash016210&langs_count=10&theme=radical) |
