@@ -24,6 +24,12 @@
 
 ---
 
+### 📝 **GitHub Profile Summary**
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash016210&theme=github)
+
+---
+
 ### 📅 Custom GitHub Commit Activity
 
 ![GitHub Commit Activity](https://ghchart.rshah.org/Yash016210?bg=0f0f0f&color=fff&line=4c1f1f)
